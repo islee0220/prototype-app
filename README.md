@@ -71,7 +71,7 @@ This is a task management application that are tailored to the specific needs of
 
 Our application's functionality will be revolving around the main dashboard. The dashboard will provide a daily task overview and quick access to course-related information, such as course syllabi. A visual calendar will offer daily, weekly, and monthly views, allowing users to switch between compact or list views as needed. Users will be able to click on tasks to add detailed information, notes, or files, and assign different attributes to distinguish them by course, priority, or status. In the weekly view, the application will even use time blocks to visually represent events and tasks and indicate their time requirements. Larger projects can be further subdivided into sub-tasks, each with its dedicated page. The app will provide task page templates for efficient task creation. The sidebar will offer options to switch between different workspaces, including school and leisure. Users can overlay calendars with friends or maintain a fully shared calendar to coordinate social gatherings and activities.
 
-![Image of Calendar](/prototype-app/docs/assets/Calendar.png)
+![Image of Calendar](images/Calendar.png)
 
 ### Information Architecture
 
