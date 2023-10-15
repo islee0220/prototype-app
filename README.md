@@ -7,6 +7,7 @@ DH 110 Assignment 2 - By Isabella Lee, Catherine , and Lin
 
 
 ### Interviewing college students
+-Bullet Journaling
 
 
 # Our Prototype Application
