@@ -40,7 +40,7 @@ Student #1
 - Helpful to have system where other people can see your tasks and where you are in terms of progress
 
 Student #2
--Are there any specific “strategies, techniques, tools” you've developed for prioritizing tasks and staying on top of assignments and deadlines? Writing tasks down on google calender and checking academic tasks on canvas calender.
+- Are there any specific “strategies, techniques, tools” you've developed for prioritizing tasks and staying on top of assignments and deadlines? Writing tasks down on google calender and checking academic tasks on canvas calender.
 - What role do digital tools (apps, software) play in your time management? Digital calender is essential as a student, there is a good feature were you could download every. 
 - Do you use more than 1 tool to help you stay organized? Why 1 or why more? Use more than one tool due to some are not automatically synchronized.
 - Do you also use analog time management tools like planners, notebooks, or to-do lists? No, its hard bring along.
@@ -72,9 +72,13 @@ This is a task management application that are tailored to the specific needs of
 Our application's functionality will be revolving around the main dashboard. The dashboard will provide a daily task overview and quick access to course-related information, such as course syllabi. A visual calendar will offer daily, weekly, and monthly views, allowing users to switch between compact or list views as needed. Users will be able to click on tasks to add detailed information, notes, or files, and assign different attributes to distinguish them by course, priority, or status. In the weekly view, the application will even use time blocks to visually represent events and tasks and indicate their time requirements. Larger projects can be further subdivided into sub-tasks, each with its dedicated page. The app will provide task page templates for efficient task creation. The sidebar will offer options to switch between different workspaces, including school and leisure. Users can overlay calendars with friends or maintain a fully shared calendar to coordinate social gatherings and activities.
 
 ![Image of Calendar](images/Homescreen.png)
+
 ![Image of Calendar](images/Homescreen2.png)
+
 ![Image of Calendar](images/Homescreen3.png)
+
 ![Image of Calendar](images/Schedule.png)
+
 ![Image of Calendar](images/Calendar.png)
 
 ### Information Architecture
