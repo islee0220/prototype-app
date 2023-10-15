@@ -1,12 +1,12 @@
-# prototype-app
-DH 110 Assignment 2 - Prototype Application
+# Time and Task Management Prototype Application
+DH 110 Assignment 2 - By Isabella Lee, Catherine , and Lin 
 
-# Data Scientist
+# The Design Process
 
-### Education
-Physics, PhD
+### Reviewing the design of existing time management tools
 
-### Work Experience
-Data Scientist @ Toyota
-- big impact project 1
-- big impact project 2
+
+### Interviewing college students
+
+
+# Our Prototype Application
