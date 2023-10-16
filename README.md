@@ -74,8 +74,8 @@ Our application's functionality will be revolving around the main dashboard. The
 
 ![Image of Tasks](images/IMG_7045.jpeg)
 
-![Image of Calendar](images/IMG_1246.jpeg)
 ![Image of Calendar](images/IMG_5928.jpeg)
+![Image of Calendar](images/IMG_1246.jpeg)
 
 ### Information Architecture
 
