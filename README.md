@@ -88,7 +88,7 @@ Our application's functionality will be revolving around the main dashboard. The
 ![Image of wireframe](images/wireframe1.JPEG)
 ![Image of wireframe](images/wireframe2.JPEG)
 ![Image of wireframe](images/wireframe3.JPEG)
-![Image of wireframe](images/wireframe4.JPEG)
+![Image of wireframe](images/wireframe4.PNG)
 
 ### Information Architecture
 
