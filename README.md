@@ -7,6 +7,7 @@
 ![Image of bullet journal](images/bulletjournal.jpg)
 
 Bullet Journaling
+
 Bullet journaling is an analog task and time management tool that uses a journal and various stationery items. This highly customizable method combines writing and drawing so that users can create calendars, todo lists, and other plans within the pages of their journal. 
 
 Pros:
@@ -15,7 +16,7 @@ Pros:
 - Greater opportunities to manually draw out plans (good for people who enjoy being artistic or want more visualization) 
 
 Cons:
--Not as convenient as a digital system that you can access from various electronic devices 
+- Not as convenient as a digital system that you can access from various electronic devices 
 - Need to create the design/layout of everything by scratch - may be hard for those who aren’t creative or can’t draw
 - May take more time to draw and write out everything in comparison to digital systems where most features can be created instantly
 - Limited workspace - may be hard to fit everything within the pages of the journal
