@@ -6,7 +6,7 @@
 
 ![Image of bullet journal](images/bulletjournal.jpg)
 
-Bullet Journaling
+**Bullet Journaling**
 
 Bullet journaling is an analog task and time management tool that uses a journal and various stationery items. This highly customizable method combines writing and drawing so that users can create calendars, todo lists, and other plans within the pages of their journal. 
 
