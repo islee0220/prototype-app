@@ -1,4 +1,4 @@
-# Prototype Time and Task Management Application
+# **Prototype Time and Task Management Application**
 
 # The Design Process
 
