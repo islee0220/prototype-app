@@ -4,6 +4,8 @@
 
 ### Reviewing the design of existing time management tools
 
+![Image of bullet journal](images/bulletjournal.jpg)
+
 Bullet Journaling
 
 - Easier to learn how to use than digital systems
@@ -11,6 +13,8 @@ Bullet Journaling
 - Not as convenient as a digital system that you can access from various electronic devices
 - Features can't be created instantly, must create the design/layout of everything by scratch 
 - Workspace is limited to the pages of the journal
+
+![Image of google calendar](images/googlecalendar.jpg)
 
 Calendar Apps (Google Calendar, Apple Calendar)
 
@@ -20,6 +24,8 @@ Calendar Apps (Google Calendar, Apple Calendar)
 - Shared calendars can be used to collaborate with others and manage group events
 - Has a search feature which allows keyword searches
 - Can attach files and documents to calendar entries
+
+![Image of notion](images/notion.png)
 
 Notion
 
