@@ -31,31 +31,32 @@ Notion
 ### Interviewing college students
 
 Student #1
-- Can have a hard time visualizing how much time a task actually takes which makes the task more intimidating to start
-- Having a visual difference between different types of tasks like school tasks vs chores/errands helps a lot 
-- In terms of time management tools, students enjoy using tools that are easy to use and aesthetically pleasing 
-- It is satisfying to cross out tasks when they are completed, helps to see the progress you made with using your time productively 
-- Helpful to have layout that shows overview of short & long term projects
-- Nice to have systems that breaks up large tasks into smaller ones
-- Helpful to have system where other people can see your tasks and where you are in terms of progress
+- Has a hard time visualizing how much time a task actually takes which makes the task more intimidating to start
+- Says that having a visual difference between different types of tasks like school tasks vs chores/errands helps a lot 
+- Enjoys using tools that are easy to use and aesthetically pleasing 
+- Says that it is satisfying to cross out tasks when they are completed (helps to see the progress you made with using your time productively) 
+- Says that it is helpful to have layout that shows overview of short & long term projects
+- Says that it is nice to have systems that breaks up large tasks into smaller ones
+- Wants a system where other people can see your tasks and where you are in terms of progress
 
 Student #2
-- Are there any specific “strategies, techniques, tools” you've developed for prioritizing tasks and staying on top of assignments and deadlines? Writing tasks down on google calender and checking academic tasks on canvas calender.
-- What role do digital tools (apps, software) play in your time management? Digital calender is essential as a student, there is a good feature were you could download every. 
-- Do you use more than 1 tool to help you stay organized? Why 1 or why more? Use more than one tool due to some are not automatically synchronized.
-- Do you also use analog time management tools like planners, notebooks, or to-do lists? No, its hard bring along.
-- If you have a perfect tool what tool would you like to include? Automatic sync with canvas. Could also have the function of separate, group calender option where i could see how i could plan calendar for clubs. 
-- What are your time management habits? Do you write it down in planners? Procrastinator, would like to have function such as reminder popup when tasks are reaching deadline. I often write things down but endup forgetting.
+- Writes tasks down on Google Calendar and checks academic tasks on Canvas calendar
+- Thinks that a digital calendar is essential as a student
+- Uses more than one tool since some are not automatically synchronized
+- Doesn't use analog tools because they are hard to bring along
+- Wants automatic syncing with Canvas and separate group calendar options 
+- Is a procrastinator, often writes things down but ends up forgetting
+- Would like reminder popups when tasks are reaching the deadline
 
 Student #3
-- Like how you can see daily, weekly, monthly views
-- Visual task management over lists, like time blocks in weeks
-- Like visually appealing, color coordination, can add photos and symbols → like the visual aspect of planning
-- Notion could offer more base templates, bad instruction on how to use it, takes a lot of effort to figure out how to use all the features
+- Likes seeing daily, weekly, monthly views
+- Prefers visual task management over lists, like time blocks in weeks
+- Likes visually appealing, color coordination, can add photos and symbols → like the visual aspect of planning
+- Thinks that Notion could offer more base templates, bad instruction on how to use it, takes a lot of effort to figure out how to use all the features
 - Would like a main homepage/hub
-- Clicks into tasks for more details, links to canvas, school dashboard
-- School academic calendar in paper planners → keep track of quarter system at the same time, but still prefer digital tools
-- Do not have time to customize from the bottom up, prefer a simple layout that is already provided that can allow for a bit of customization
+- Likes clicking into tasks for more details, links to canvas, school dashboard
+- Uses school academic calendar in paper planners → keep track of quarter system at the same time, but still prefer digital tools
+- Does not have time to customize from the bottom up, prefer a simple layout that is already provided that can allow for a bit of customization
 
 ### Takeaways 
 
