@@ -7,12 +7,18 @@
 ![Image of bullet journal](images/bulletjournal.jpg)
 
 Bullet Journaling
+Bullet journaling is an analog task and time management tool that uses a journal and various stationery items. This highly customizable method combines writing and drawing so that users can create calendars, todo lists, and other plans within the pages of their journal. 
 
-- Easier to learn how to use than digital systems
+Pros:
+- Knowledge of digital systems/technology is not needed (all you need is a journal and stationery to get started which makes it easier to learn how to use)
 - Greater degree of freedom and creativity to decide how you want to plan your schedule or record tasks 
-- Not as convenient as a digital system that you can access from various electronic devices
-- Features can't be created instantly, must create the design/layout of everything by scratch 
-- Workspace is limited to the pages of the journal
+- Greater opportunities to manually draw out plans (good for people who enjoy being artistic or want more visualization) 
+
+Cons:
+-Not as convenient as a digital system that you can access from various electronic devices 
+- Need to create the design/layout of everything by scratch - may be hard for those who aren’t creative or can’t draw
+- May take more time to draw and write out everything in comparison to digital systems where most features can be created instantly
+- Limited workspace - may be hard to fit everything within the pages of the journal
 
 ![Image of google calendar](images/googlecalendar.jpg)
 
@@ -36,7 +42,7 @@ Notion
 
 ### Interviewing college students
 
-Student #1 
+Student #1: Renee (Business Major, 4th year)
 - Has a hard time visualizing how much time a task actually takes which makes the task more intimidating to start
 - Says that having a visual difference between different types of tasks like school tasks vs chores/errands helps a lot 
 - Enjoys using tools that are easy to use and aesthetically pleasing 
