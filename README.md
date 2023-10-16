@@ -96,7 +96,9 @@ The information structure of the application is designed to cater to users' prim
 
 ### User Persona
 
-Our target groups are tailored by viewing user personas and user journey, we focus on full-time college students who prioritize convenience, simplicity, and aesthetics. These students are visual learners who enjoy collaboration and sharing their schedules with others, they may also are seeking for efficient time management solution tailored to their busy student lives. They were drawn to the app due to its personalized features that are efficient, customizable user-friendly interface, and accessibility across different devices.
+![Image of user persona](images/userpersona.png)
+
+Our target groups are tailored by viewing user personas and user journey, we focus on full-time college students who prioritize convenience, simplicity, and aesthetics. These students are visual learners who enjoy collaboration and sharing their schedules with others, they may also be seeking efficient time management solution tailored to their busy student lives. They were drawn to the app due to its personalized features that are efficient, customizable user-friendly interface, and accessibility across different devices.
 
 ### User Journey
 
