@@ -117,8 +117,11 @@ Desktop
 
 ### Information Architecture
 
+![image 1-2](https://github.com/islee0220/prototype-app/assets/147427154/f55feba1-b724-437b-94fd-56e65f34cc14)
+
 The information structure of the application is designed to cater to users' primary needs and objectives, including straightforward navigation, reminders, time management, note-taking, and customization. Key features will comprise the dashboard, calendar, tasks, reminders, and a study timer. The inclusion of settings and customization sections, such as user profiles, calendar integration, and application preferences, will enhance structural consistency and flexibility.
-![image 1](https://github.com/islee0220/prototype-app/assets/147427154/d702e02e-4057-490e-a3fd-7103768e6e19)
+
+
 
 ### User Persona
 
