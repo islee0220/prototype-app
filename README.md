@@ -54,7 +54,7 @@ Cons:
 
 ### Interviewing college students
 
-Student #1: Renee (Business Major, 4th year)
+**Student #1: Renee (Business Major, 4th year)**
 - Has a hard time visualizing how much time a task actually takes which makes the task more intimidating to start
 - Says that having a visual difference between different types of tasks like school tasks vs chores/errands helps a lot 
 - Enjoys using tools that are easy to use and aesthetically pleasing 
@@ -63,7 +63,7 @@ Student #1: Renee (Business Major, 4th year)
 - Says that it is nice to have systems that breaks up large tasks into smaller ones
 - Wants a system where other people can see your tasks and where you are in terms of progress
 
-Student #2 
+**Student #2**
 - Writes tasks down on Google Calendar and checks academic tasks on Canvas calendar
 - Thinks that a digital calendar is essential as a student
 - Uses more than one tool since some are not automatically synchronized
@@ -72,7 +72,7 @@ Student #2
 - Is a procrastinator, often writes things down but ends up forgetting
 - Would like reminder popups when tasks are reaching the deadline
 
-Student #3: Sarah (Human Bio & Society Major, 4th year)
+**Student #3: Sarah (Human Bio & Society Major, 4th year)**
 - Likes seeing daily, weekly, monthly views
 - Prefers visual task management over lists, like time blocks in weeks
 - Likes visually appealing, color coordination, can add photos and symbols → like the visual aspect of planning
