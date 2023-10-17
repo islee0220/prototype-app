@@ -104,11 +104,13 @@ The last tab is for the user profile, where Canvas can be connected to a Study S
 Profile
 ![Image of wireframe](images/wireframe1.JPEG)
 Homepage
-![Image of wireframe](images/wireframe2.JPEG)
+![Image of wireframe](images/2homepage.png)
 Calendar
-![Image of wireframe](images/wireframe3.JPEG)
+![Image of wireframe](images/3calendar.png)
 Social + Notifications
 ![Image of wireframe](images/wireframe4.PNG)
+Desktop
+![Image of wireframe](images/5desktop.png)
 
 ### Information Architecture
 
