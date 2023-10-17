@@ -72,7 +72,7 @@ Student #2
 - Is a procrastinator, often writes things down but ends up forgetting
 - Would like reminder popups when tasks are reaching the deadline
 
-Student #3 
+Student #3: Sarah (Human Bio & Society Major, 4th year)
 - Likes seeing daily, weekly, monthly views
 - Prefers visual task management over lists, like time blocks in weeks
 - Likes visually appealing, color coordination, can add photos and symbols → like the visual aspect of planning
@@ -90,7 +90,7 @@ A successful time management tool should provide a user-friendly interface, prov
 
 # Our Prototype Application
 
-This is a task management application that are tailored to the specific needs of college students. This app will emphasize on visual time management and schedule sharing. It will focus on user-friendliness and synchronization across multiple devices to facilitate cross-platform use such as canvas. Key features will encompass a search function, visual customization options like themes and light/dark modes, as well as a help feature providing instructions on app usage. Our Breadcrumb navigation will enhance users' ability to navigate seamlessly between different sections.
+This is a task management application that are tailored to the specific needs of college students. This app will emphasize on visual time management that can combine tasks and events in the same view for efficiency as well as schedule sharing and collaboration with other students. It will also focus on user-friendliness and synchronization across multiple devices to facilitate cross-platform use such as canvas. Key features will encompass a search function, visual customization options like themes and light/dark modes, as well as a help feature providing instructions on app usage. 
 
 ### Application Functionality
 
