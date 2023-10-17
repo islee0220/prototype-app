@@ -113,7 +113,7 @@ Calendar
 Social + Notifications
 ![Image of wireframe](images/wireframe4.PNG)
 Desktop
-![Image of wireframe](images/5desktop.png)
+![Image of wireframe](images/desktopupdate.png)
 
 ### Information Architecture
 
