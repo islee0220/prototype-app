@@ -46,7 +46,7 @@ Pros:
 - Very collaborative, especially for project management as multiple people can edit and work in one workspace
 - Allows for embedded media in pages like documents and images
 - Multi-device synchronization
-- 
+
 Cons:
 - Learning curve when first figuring out how to implement and use different features → app is very technical
 - Structure can be a bit overwhelming because there are so many capabilities
