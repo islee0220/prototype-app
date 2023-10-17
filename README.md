@@ -118,6 +118,7 @@ Desktop
 ### Information Architecture
 
 The information structure of the application is designed to cater to users' primary needs and objectives, including straightforward navigation, reminders, time management, note-taking, and customization. Key features will comprise the dashboard, calendar, tasks, reminders, and a study timer. The inclusion of settings and customization sections, such as user profiles, calendar integration, and application preferences, will enhance structural consistency and flexibility.
+![image 1](https://github.com/islee0220/prototype-app/assets/147427154/d702e02e-4057-490e-a3fd-7103768e6e19)
 
 ### User Persona
 
@@ -126,6 +127,7 @@ The information structure of the application is designed to cater to users' prim
 Our target groups are tailored by viewing user personas and user journey, we focus on full-time college students who prioritize convenience, simplicity, and aesthetics. These students are visual learners who enjoy collaboration and sharing their schedules with others, they may also be seeking efficient time management solution tailored to their busy student lives. They were drawn to the app due to its personalized features that are efficient, customizable user-friendly interface, and accessibility across different devices.
 
 ### User Journey
+<img width="9383" alt="User journey map (Community)" src="https://github.com/islee0220/prototype-app/assets/147427154/8c037fd9-6f32-4bac-9937-98ad84dde647">
 
 We predict the possible steps a user might take to accomplish their goals using our app might look like the following:
 
