@@ -23,7 +23,7 @@ Cons:
 
 ![Image of google calendar](images/googlecalendar.jpg)
 
-Calendar Apps (Google Calendar, Apple Calendar)
+**Calendar Apps (Google Calendar, Apple Calendar)**
 
 - Agenda views for flexible scheduling
 - Can set up reminders and notifications
@@ -34,12 +34,23 @@ Calendar Apps (Google Calendar, Apple Calendar)
 
 ![Image of notion](images/notion.png)
 
-Notion
+**Notion**
 
-- More intricate interface with lots of customization and features
-- Can begin with blank canvas or download default templates
-- App is split into sidebar (holds all task databases and pages) and editor
-- Pages are empty for space to write, plan, brainstorm
+Notion is a digital note-taking workspace that has many tools surrounding task management and project tracking. Pages can hold templates or be built from scratch to align to the user’s needs. 
+
+Pros:
+- Clean and visually appealing design
+- Highly customizable with various features 
+- Free templates with multiple use cases
+- Lots of formatting options → timelines, calendars, lists, galleries, with ability to add properties to tasks and sort thouroughly
+- Very collaborative, especially for project management as multiple people can edit and work in one workspace
+- Allows for embedded media in pages like documents and images
+- Multi-device synchronization
+- 
+Cons:
+- Learning curve when first figuring out how to implement and use different features → app is very technical
+- Structure can be a bit overwhelming because there are so many capabilities
+
 
 ### Interviewing college students
 
