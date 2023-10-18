@@ -63,7 +63,7 @@ Cons:
 - Says that it is nice to have systems that breaks up large tasks into smaller ones
 - Wants a system where other people can see your tasks and where you are in terms of progress
 
-**Student #2**
+**Student #2: Jen (Biology Major, 2nd year)**
 - Writes tasks down on Google Calendar and checks academic tasks on Canvas calendar
 - Thinks that a digital calendar is essential as a student
 - Uses more than one tool since some are not automatically synchronized
