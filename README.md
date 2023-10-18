@@ -103,7 +103,7 @@ The third tab is the social tab, where users can overlay calendars with friends 
 The last tab is for the user profile, where Canvas can be connected to a Study Sync account to automatically place tasks and events in the calendar along with relevant files.
 
 **Low-Fidelity Wireframes**
-![Image of wireframe](images/lofiwireframes.png)
+![Image of wireframe](images/lofiwireframes.jpg)
 
 **High-Fidelity Wireframes**
 
