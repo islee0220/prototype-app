@@ -90,7 +90,7 @@ A successful time management tool should provide a user-friendly interface, prov
 
 # Our Prototype Application
 
-Study Synce is a task management application that is tailored to the specific needs of college students. This app will emphasize on visual time management that can combine tasks and events in the same view for efficiency as well as schedule sharing and collaboration with other students. It will also focus on user-friendliness and synchronization across multiple devices to facilitate cross-platform use such as Canvas. Key features will encompass a search function, visual customization options like themes and light/dark modes, automation from inputting content from Canvas and assigning tasks by priority, media and file embedding, as well as a help feature providing instructions on app usage. 
+Study Sync is a task management application that is tailored to the specific needs of college students. This app will emphasize on visual time management that can combine tasks and events in the same view for efficiency as well as schedule sharing and collaboration with other students. It will also focus on user-friendliness and synchronization across multiple devices to facilitate cross-platform use such as Canvas. Key features will encompass a search function, visual customization options like themes and light/dark modes, automation from inputting content from Canvas and assigning tasks by priority, media and file embedding, as well as a help feature providing instructions on app usage. 
 
 ### Application Functionality
 
